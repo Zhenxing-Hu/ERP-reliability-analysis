@@ -1,0 +1,1 @@
+This is the simulation code as well as the stastistical analysis for the 2022 NeuroImage paper - [A new perspective on individual reliability beyond group effect for event-related potentials: A multisensory investigation and computational modeling].
